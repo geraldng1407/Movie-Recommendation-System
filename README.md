@@ -5,7 +5,7 @@ This project implements a simple movie recommender system using cosine similarit
 The project contains the following files:
 * `Main.ipynb`: Jupyter notebook containing the code to load data, vectorize movie tags, generate similarity matrix, and make recommendations
 * `movies_list.pkl`: Pickle file containing the filtered movie dataframe
-* `similarity.pkl`: Pickle file containing the pre-computed similarity matrix
+* `similarity.pkl`: Pickle file containing the pre-computed similarity matrix (This file is not in the repository because it is too big)
 * `dataset.csv`: Movie dataset used for training
 
 ## Usage
