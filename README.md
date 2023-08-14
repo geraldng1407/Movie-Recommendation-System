@@ -30,3 +30,6 @@ Some ways this recommender could be improved:
 * Use matrix factorization methods to predict ratings and recommend based on predicted preferences
 * Evaluate performance quantitatively by splitting data into train and test sets
 * Deploy model and serve recommendations via a web application
+
+## Demo
+![](https://github.com/geraldng1407/Movie-Recommendation-System/blob/main/Demo.gif)
